@@ -4,6 +4,8 @@ A simplified adaption of the https://github.com/karpathy/nanoGPT repository, for
 ## Showcase
 If you only want to see the results open the jupyter notebook LLM-showcase.ipynb.
 
+Direct link to Google Colab https://colab.research.google.com/github/phonosync/demo_llm/blob/main/LLM-showcase.ipynb
+
 ## How to train the model
 - create a venv from the requirements.txt
   - if you get dependency problems, try to resolve them with the information from the requirements-pip-freeze.txt
